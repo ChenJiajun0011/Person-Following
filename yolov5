@@ -1,1 +1,1 @@
-
+git submodule add https://github.com/ultralytics/yolov5.git yolov5
